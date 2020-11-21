@@ -12,3 +12,4 @@ function reset(){
     document.getElementById('ageInDays').remove();
     
 }
+
